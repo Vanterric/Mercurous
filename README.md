@@ -76,4 +76,4 @@ Mercurous was born out of necessity (and fun): a lightweight, mobile-first comma
 
 Have thoughts, feedback, or want to collaborate?
 
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/derrick-gallegos/)
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/derrickgallegos/)
